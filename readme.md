@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto DevLinks" src="assets/.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -45,7 +45,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. 
+Esse projeto está sob a licença MIT.
 
 ---
 
