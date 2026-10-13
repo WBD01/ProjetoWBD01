@@ -2,7 +2,7 @@
 
 <p align="center">
 Aplicação desenvolvida por Wagner Fagundes em treinamento na plataforma Rocketseat para aprendizado e aperfeiçoamento em tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://wbd01.github.io/ProjetoWBD01">Veja o resultado desse projeot clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Aplicação desenvolvida por Wagner Fagundes em treinamento na plataforma Rocket
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto DevLinks" src="assets/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,15 +35,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado, online](https://wbd01.github.io/ProjetoWBD01)
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
 
